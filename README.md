@@ -5,9 +5,7 @@ This project aims to investigate the impact of attending university in a foreign
 
 ## Repository Structure
 - **Data**: Contains the dataset used for the analysis.
-- **SQL**: Includes SQL scripts used for querying and analyzing the data.
-- **Results**: Stores visualizations or summaries of the analysis findings.
-- **Documentation**: Houses additional documentation or resources related to the project.
+- **SQL**: Includes SQL scripts used for querying and analyzing the data as well as the full report showcasing the results
 
 ## Query Analysis
 The SQL queries in this project focus on:
